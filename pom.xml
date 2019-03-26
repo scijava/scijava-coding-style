@@ -15,8 +15,8 @@
 
 	<name>SciJava Coding Style</name>
 	<description>Configuration Files For SciJava and ImgLib2 Coding Styles</description>
-	<url>https://github.com/maarzt/scijava-coding-style</url>
-	<inceptionYear>2017</inceptionYear>
+	<url>https://github.com/scijava/scijava-coding-style</url>
+	<inceptionYear>2019</inceptionYear>
 	<organization>
 		<name>SciJava</name>
 		<url>https://scijava.org/</url>
@@ -72,18 +72,18 @@
 	</repositories>
 
 	<scm>
-		<connection>scm:git:git://github.com/maarzt/scijava-coding-style</connection>
-		<developerConnection>scm:git:git@github.com:maarzt/scijava-coding-style</developerConnection>
+		<connection>scm:git:git://github.com/scijava/scijava-coding-style</connection>
+		<developerConnection>scm:git:git@github.com:scijava/scijava-coding-style</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/maarzt/scijava-coding-style</url>
+		<url>https://github.com/scijava/scijava-coding-style</url>
 	</scm>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/maarzt/scijava-coding-style/issues</url>
+		<url>https://github.com/scijava/scijava-coding-style/issues</url>
 	</issueManagement>
 	<ciManagement>
 		<system>Travis CI</system>
-		<url>https://travis-ci.org/maarzt/scijava-coding-style</url>
+		<url>https://travis-ci.org/scijava/scijava-coding-style</url>
 	</ciManagement>
 
 	<properties>
