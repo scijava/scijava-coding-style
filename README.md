@@ -1,3 +1,5 @@
+[![](https://travis-ci.org/scijava/scijava-coding-style.svg?branch=master)](https://travis-ci.org/scijava/scijava-coding-style)
+
 # scijava-coding-style
 
 This  maven artifact contains Exclipse coding styles settings, that are intended to be used with `pom-scijava`.
