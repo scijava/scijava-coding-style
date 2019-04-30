@@ -2,12 +2,11 @@
 
 # scijava-coding-style
 
-This  maven artifact contains Exclipse coding styles settings, that are intended to be used with `pom-scijava`.
+This Maven artifact contains Eclipse coding style settings, intended for use with `pom-scijava`.
 
 ## Installation
-**PLEASE NOTE: This PR needs to be merged first: https://github.com/scijava/pom-scijava/pull/85**
 
-The parent pom of your project needs to be `pom-scijava`.
+The parent POM of your project needs to be `pom-scijava` at version 27.0.0 or later.
 
 ## Usage
 
