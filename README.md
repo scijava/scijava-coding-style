@@ -6,7 +6,7 @@ This Maven artifact contains Eclipse coding style settings, intended for use wit
 
 ## Installation
 
-The parent POM of your project needs to be `pom-scijava` at version 27.0.0 or later.
+The parent POM of your project needs to be `pom-scijava` at version 28.0.0 or later.
 
 ## Usage
 
@@ -21,9 +21,9 @@ $ mvn impsort:sort
 
 ## Configuration
 
-Three coding styles are supported: `imagej`, `imglib2` and `scifio`.
-The default setting is `imagej`.
-To change this set the `coding-style` property in you maven pom. For examle:
+Two coding styles are supported: `scijava` and `imglib2`.
+The default setting is `scijava`.
+To change this, set the `coding-style` property in your Maven POM. For example:
 ```
 <properties>
     <coding-style>imglib2</coding-style>
