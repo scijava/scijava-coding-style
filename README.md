@@ -26,6 +26,6 @@ The default setting is `scijava`.
 To change this, set the `coding-style` property in your Maven POM. For example:
 ```
 <properties>
-    <coding-style>imglib2</coding-style>
+    <scijava.coding-style>imglib2</scijava.coding-style>
 </properties>
 ```
