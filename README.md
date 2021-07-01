@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/scijava/scijava-coding-style.svg?branch=master)](https://travis-ci.org/scijava/scijava-coding-style)
+[![](https://github.com/scijava/scijava-coding-style/actions/workflows/build-main.yml/badge.svg)](https://github.com/scijava/scijava-coding-style/actions/workflows/build-main.yml)
 
 # scijava-coding-style
 

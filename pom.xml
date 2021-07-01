@@ -81,8 +81,8 @@
 		<url>https://github.com/scijava/scijava-coding-style/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.org/scijava/scijava-coding-style</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/scijava/scijava-coding-style/actions</url>
 	</ciManagement>
 
 	<properties>
