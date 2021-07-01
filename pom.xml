@@ -32,13 +32,22 @@
 		<developer>
 			<id>maarzt</id>
 			<name>Matthias Arzt</name>
-			<url>https://imagej.net/User:Maarzt</url>
+			<url>https://imagej.net/people/maarzt</url>
 			<roles>
+				<role>founder</role>
 				<role>lead</role>
 				<role>developer</role>
 				<role>debugger</role>
 				<role>reviewer</role>
 				<role>support</role>
+				<role>maintainer</role>
+			</roles>
+		</developer>
+		<developer>
+			<id>ctrueden</id>
+			<name>Curtis Rueden</name>
+			<url>https://imagej.net/people/ctrueden</url>
+			<roles>
 				<role>maintainer</role>
 			</roles>
 		</developer>
