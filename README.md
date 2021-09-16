@@ -4,6 +4,8 @@
 
 This Maven artifact contains Eclipse coding style settings, intended for use with `pom-scijava`.
 
+There is also a `preferences.epf` you can import into the Eclipse IDE via _File > Import_.
+
 ## Installation
 
 The parent POM of your project needs to be `pom-scijava` at version 28.0.0 or later.
