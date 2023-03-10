@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>scijava-coding-style</artifactId>
-	<version>2.1.1-SNAPSHOT</version>
+	<version>2.1.2-SNAPSHOT</version>
 
 	<name>SciJava Coding Style</name>
 	<description>Configuration Files For SciJava and ImgLib2 Coding Styles</description>
