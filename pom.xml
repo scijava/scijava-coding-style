@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>scijava-coding-style</artifactId>
-	<version>2.1.1-SNAPSHOT</version>
+	<version>2.1.1</version>
 
 	<name>SciJava Coding Style</name>
 	<description>Configuration Files For SciJava and ImgLib2 Coding Styles</description>
@@ -82,7 +82,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/scijava/scijava-coding-style</connection>
 		<developerConnection>scm:git:git@github.com:scijava/scijava-coding-style</developerConnection>
-		<tag>HEAD</tag>
+		<tag>scijava-coding-style-2.1.1</tag>
 		<url>https://github.com/scijava/scijava-coding-style</url>
 	</scm>
 	<issueManagement>
